@@ -1,0 +1,10 @@
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\bin\Debug\Shoot Out Game.exe.config
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\bin\Debug\Shoot Out Game.exe
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\bin\Debug\Shoot Out Game.pdb
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csprojAssemblyReference.cache
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot_Out_Game.Form1.resources
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot_Out_Game.Properties.Resources.resources
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csproj.GenerateResource.cache
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.exe
+D:\Visual Studio\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.pdb
